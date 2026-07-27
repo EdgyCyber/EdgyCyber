@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @EdgyCyber
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Cyber Security
-- 💞️ I’m looking to collaborate on Assembly and Bash
+- 👀 I’m interested and generally proficient in Cyber Security
+- 💞️ I’m looking to collaborate on back-end A.I architecture / systems.
 - 📫 How to reach me www.EdgyCyber.com
 
 <!---
