@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EdgyCyber
-- 👀 I’m interested and generally proficient in Cyber Security
+- 👀 I’m interested and generally proficient in Cyber Security & Artificial Intelligence. (First wave of A.I Whisperers / Prompt Engineers) 
 - 💞️ I’m looking to collaborate on back-end A.I architecture / systems.
 - 📫 How to reach me www.EdgyCyber.com
 
